@@ -1,0 +1,8 @@
+# Environment
+\venv
+
+# Database
+database.ini
+
+# Other
+\__pycache__
